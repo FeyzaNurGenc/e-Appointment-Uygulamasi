@@ -1,0 +1,15 @@
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\bin\Debug\net8.0\aAppointmentServer.Application.deps.json
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\bin\Debug\net8.0\aAppointmentServer.Application.dll
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\bin\Debug\net8.0\aAppointmentServer.Application.pdb
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\bin\Debug\net8.0\aAppointmentServer.Domain.dll
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\bin\Debug\net8.0\aAppointmentServer.Domain.pdb
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\aAppointmentServer.Application.csproj.AssemblyReference.cache
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\aAppointmentServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\aAppointmentServer.Application.AssemblyInfoInputs.cache
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\aAppointmentServer.Application.AssemblyInfo.cs
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\aAppointmentServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\aAppoint.BF65EC1B.Up2Date
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\aAppointmentServer.Application.dll
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\refint\aAppointmentServer.Application.dll
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\aAppointmentServer.Application.pdb
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Application\obj\Debug\net8.0\ref\aAppointmentServer.Application.dll

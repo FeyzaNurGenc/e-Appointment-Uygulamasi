@@ -1,0 +1,12 @@
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\bin\Debug\net8.0\aAppointmentServer.Domain.deps.json
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\bin\Debug\net8.0\aAppointmentServer.Domain.dll
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\bin\Debug\net8.0\aAppointmentServer.Domain.pdb
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\aAppointmentServer.Domain.csproj.AssemblyReference.cache
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\aAppointmentServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\aAppointmentServer.Domain.AssemblyInfoInputs.cache
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\aAppointmentServer.Domain.AssemblyInfo.cs
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\aAppointmentServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\aAppointmentServer.Domain.dll
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\refint\aAppointmentServer.Domain.dll
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\aAppointmentServer.Domain.pdb
+C:\Users\Feyza\Desktop\eAppointment\aAppointmentServer\aAppointmentServer.Domain\obj\Debug\net8.0\ref\aAppointmentServer.Domain.dll

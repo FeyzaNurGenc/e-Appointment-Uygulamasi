@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rVAXBr5sAahsJQl69rrIH0JqaTXgGBzwYbL5Qn5VhV4=",
+  "Source": "aAppointmentServer.WebAPI",
+  "BasePath": "_content/aAppointmentServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

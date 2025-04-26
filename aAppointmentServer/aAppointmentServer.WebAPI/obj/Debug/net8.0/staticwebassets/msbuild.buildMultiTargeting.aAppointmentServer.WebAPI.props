@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aAppointmentServer.WebAPI.props" />
+</Project>
